@@ -1,1 +1,1 @@
-# babel-starter
+# babel / Sass boilerplate
