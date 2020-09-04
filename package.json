@@ -16,6 +16,6 @@
     "@babel/core": "^7.7.7",
     "@babel/preset-env": "^7.7.7",
     "concurrently": "^5.0.2",
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   }
 }
